@@ -9,9 +9,10 @@ Develop chat application using pyqt5 and socketIO
     * Add chats and people button
 
 ## TODO
-    * [ ] Create userbox
-    * [ ] Create typing box
-    * [ ] Create send button
-    * [ ] Update controller 
-    * [ ] Create loggin page
-    * [ ] Create signup page
+
+    - [ ] Create userbox
+    - [ ] Create typing box
+    - [ ] Create send button
+    - [ ] Update controller 
+    - [ ] Create loggin page
+    - [ ] Create signup page
